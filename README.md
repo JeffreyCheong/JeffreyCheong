@@ -14,6 +14,8 @@ I often believe that there are many uncertainties in the future. I was a young k
 <div stlye="display: flex;justify-content: center">
     <img src="assets/1.png" width="250" height="300" style="padding: 5px">
     <img src="assets/2.png" width="250" height="300" style="padding: 5px">
+</div>
+<div stlye="display: flex;justify-content: center">
     <img src="assets/3.png" width="250" height="300" style="padding: 5px">
     <img src="assets/4.png" width="250" height="300" style="padding: 5px">
 </div>
