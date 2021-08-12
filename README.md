@@ -12,13 +12,13 @@ I often believe that there are many uncertainties in the future. I was a young k
 </div>
 </br>
 <div stlye="display: flex;justify-content: center" align="center">
-    <img src="assets/1.png" width="250" height="300" style="padding: 5px" align="center">
-    <img src="assets/2.png" width="250" height="300" style="padding: 5px" align="center">
+    <img src="assets/1.png" width="350" height="400" style="padding: 20px" align="center">
+    <img src="assets/2.png" width="350" height="400" style="padding: 20px" align="center">
 </div>
 </br>
 <div stlye="display: flex;justify-content: center" align="center">
-    <img src="assets/3.png" width="250" height="300" style="padding: 5px" align="center">
-    <img src="assets/4.png" width="250" height="300" style="padding: 5px" align="center">
+    <img src="assets/3.png" width="350" height="400" style="padding: 20px" align="center">
+    <img src="assets/4.png" width="350" height="400" style="padding: 20px" align="center">
 </div>
 
 # Blockchain & DEFI
