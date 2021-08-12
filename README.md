@@ -1,5 +1,5 @@
 
-![banner](assets/forrestgump.jpeg)
+<img src='assets/forrestgump.jpeg' width="100%">
 
 # Hey there! <img src='assets/wave.gif' height="40" width="40">
 I often believe that there are many uncertainties in the future. I was a young kid living in the rural areas of an urban city. I was never farfetched, merely a simple minded person who was living a normal life. A person who enthusiated with technologies and creatives arts. 
