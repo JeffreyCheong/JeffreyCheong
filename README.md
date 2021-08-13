@@ -6,10 +6,11 @@ I often believe that there are many uncertainties in the future. I was a young k
 
 I am 
 
-- a software engineer 🧑‍💻 working in singapore 🇸🇬
+- a software engineer 🧑‍💻 working in Singapore 🇸🇬
 - [a scrum certified product owner][5]<img src='assets/cspo.png' height='50px'> 
 - a decentralized finance enthusiatics ₿
 - a dancer from [StreetGeekz][6]🕺
+- learning japanese language はじめまして
 
 # <img src='assets/personality.png' height="50" width="50"> My Personality Test 
 <img src='assets/campaigner.svg'>
